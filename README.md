@@ -1,4 +1,6 @@
 # Monero Ledger App
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftczee36%2Fapp-monero.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftczee36%2Fapp-monero?ref=badge_shield)
+
 
 Monero wallet application for Ledger Nano S and Nano X.
 
@@ -26,3 +28,7 @@ For production usage, use the application provided by the [Ledger Live](https://
 * Monero client CLI or GUI - [https://web.getmonero.org/downloads/](https://web.getmonero.org/downloads/)
 
 * Ledger's developer documentation - [https://ledger.readthedocs.io](https://ledger.readthedocs.io)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftczee36%2Fapp-monero.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftczee36%2Fapp-monero?ref=badge_large)
